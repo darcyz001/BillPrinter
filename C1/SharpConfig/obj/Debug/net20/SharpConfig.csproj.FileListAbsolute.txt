@@ -24,3 +24,9 @@ Z:\dev\Bill\V4\SharpConfig\obj\Debug\net20\SharpConfig.dll
 Z:\dev\Bill\V4\SharpConfig\obj\Debug\net20\SharpConfig.pdb
 F:\nas\dev\Bill\V4\SharpConfig\obj\Debug\net20\SharpConfig.csprojAssemblyReference.cache
 F:\nas\dev\Bill\V4\SharpConfig\obj\Debug\net20\SharpConfig.csproj.CoreCompileInputs.cache
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\SharpConfig\bin\Debug\SharpConfig.dll
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\SharpConfig\bin\Debug\SharpConfig.pdb
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\SharpConfig\obj\Debug\net20\SharpConfig.csprojAssemblyReference.cache
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\SharpConfig\obj\Debug\net20\SharpConfig.csproj.CoreCompileInputs.cache
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\SharpConfig\obj\Debug\net20\SharpConfig.dll
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\SharpConfig\obj\Debug\net20\SharpConfig.pdb

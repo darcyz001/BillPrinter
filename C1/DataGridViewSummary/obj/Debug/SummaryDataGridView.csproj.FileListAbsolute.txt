@@ -24,3 +24,10 @@ Z:\dev\Bill\V4\DataGridViewSummary\obj\Debug\SummaryDGV.pdb
 Z:\dev\Bill\V4\DataGridViewSummary\obj\Debug\SummaryDataGridView.csprojAssemblyReference.cache
 F:\nas\dev\Bill\V4\DataGridViewSummary\obj\Debug\SummaryDataGridView.csprojAssemblyReference.cache
 F:\nas\dev\Bill\V4\DataGridViewSummary\obj\Debug\SummaryDataGridView.csproj.CoreCompileInputs.cache
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\DataGridViewSummary\bin\Debug\SummaryDGV.dll.config
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\DataGridViewSummary\bin\Debug\SummaryDGV.dll
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\DataGridViewSummary\bin\Debug\SummaryDGV.pdb
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\DataGridViewSummary\obj\Debug\SummaryDataGridView.csprojAssemblyReference.cache
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\DataGridViewSummary\obj\Debug\SummaryDataGridView.csproj.CoreCompileInputs.cache
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\DataGridViewSummary\obj\Debug\SummaryDGV.dll
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\DataGridViewSummary\obj\Debug\SummaryDGV.pdb

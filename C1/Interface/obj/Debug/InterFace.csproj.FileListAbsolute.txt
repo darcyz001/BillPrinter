@@ -32,3 +32,17 @@ F:\nas\dev\Bill\V4\Interface\obj\Debug\InterFace.csproj.CopyComplete
 F:\nas\dev\Bill\V4\Interface\bin\Debug\DB_BLL.dll
 F:\nas\dev\Bill\V4\Interface\bin\Debug\Oracle.ManagedDataAccess.dll
 F:\nas\dev\Bill\V4\Interface\bin\Debug\DB_BLL.pdb
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\Interface\bin\Debug\Interface.dll
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\Interface\bin\Debug\Interface.pdb
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\Interface\bin\Debug\Models.dll
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\Interface\bin\Debug\SharpConfig.dll
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\Interface\bin\Debug\DB_BLL.dll
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\Interface\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\Interface\bin\Debug\Models.pdb
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\Interface\bin\Debug\SharpConfig.pdb
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\Interface\bin\Debug\DB_BLL.pdb
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\Interface\obj\Debug\InterFace.csprojAssemblyReference.cache
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\Interface\obj\Debug\InterFace.csproj.CoreCompileInputs.cache
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\Interface\obj\Debug\InterFace.csproj.CopyComplete
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\Interface\obj\Debug\Interface.dll
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\Interface\obj\Debug\Interface.pdb

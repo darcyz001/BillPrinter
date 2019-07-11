@@ -31,3 +31,11 @@ F:\nas\dev\Bill\V4\DB_BLL\bin\Debug\Oracle.ManagedDataAccess.dll
 F:\nas\dev\Bill\V4\DB_BLL\obj\Debug\DB_BLL.csprojAssemblyReference.cache
 F:\nas\dev\Bill\V4\DB_BLL\obj\Debug\DB_BLL.csproj.CoreCompileInputs.cache
 F:\nas\dev\Bill\V4\DB_BLL\obj\Debug\DB_BLL.csproj.CopyComplete
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\DB_BLL\bin\Debug\DB_BLL.dll
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\DB_BLL\bin\Debug\DB_BLL.pdb
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\DB_BLL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\DB_BLL\obj\Debug\DB_BLL.csprojAssemblyReference.cache
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\DB_BLL\obj\Debug\DB_BLL.csproj.CoreCompileInputs.cache
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\DB_BLL\obj\Debug\DB_BLL.csproj.CopyComplete
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\DB_BLL\obj\Debug\DB_BLL.dll
+C:\Users\sam.SHOFW\Documents\CloudStation\dev\Bill\Rebuild\C1\DB_BLL\obj\Debug\DB_BLL.pdb
