@@ -1,0 +1,12 @@
+F:\nas\dev\Bill\V4\Contract_BLL\bin\Debug\Contract_BLL.dll
+F:\nas\dev\Bill\V4\Contract_BLL\bin\Debug\Contract_BLL.pdb
+F:\nas\dev\Bill\V4\Contract_BLL\bin\Debug\DB_BLL.dll
+F:\nas\dev\Bill\V4\Contract_BLL\bin\Debug\Interface.dll
+F:\nas\dev\Bill\V4\Contract_BLL\bin\Debug\SharpConfig.dll
+F:\nas\dev\Bill\V4\Contract_BLL\bin\Debug\Oracle.DataAccess.dll
+F:\nas\dev\Bill\V4\Contract_BLL\bin\Debug\DB_BLL.pdb
+F:\nas\dev\Bill\V4\Contract_BLL\bin\Debug\Interface.pdb
+F:\nas\dev\Bill\V4\Contract_BLL\bin\Debug\SharpConfig.pdb
+F:\nas\dev\Bill\V4\Contract_BLL\obj\Debug\List_BLL.csprojResolveAssemblyReference.cache
+F:\nas\dev\Bill\V4\Contract_BLL\obj\Debug\Contract_BLL.dll
+F:\nas\dev\Bill\V4\Contract_BLL\obj\Debug\Contract_BLL.pdb

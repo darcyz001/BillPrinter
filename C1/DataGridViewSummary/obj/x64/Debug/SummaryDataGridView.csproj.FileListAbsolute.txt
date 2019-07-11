@@ -1,0 +1,5 @@
+C:\Users\sam.SHOFW\Desktop\V4\DataGridViewSummary\bin\x64\Debug\SummaryDGV.dll.config
+C:\Users\sam.SHOFW\Desktop\V4\DataGridViewSummary\bin\x64\Debug\SummaryDGV.dll
+C:\Users\sam.SHOFW\Desktop\V4\DataGridViewSummary\bin\x64\Debug\SummaryDGV.pdb
+C:\Users\sam.SHOFW\Desktop\V4\DataGridViewSummary\obj\x64\Debug\SummaryDGV.dll
+C:\Users\sam.SHOFW\Desktop\V4\DataGridViewSummary\obj\x64\Debug\SummaryDGV.pdb

@@ -1,0 +1,4 @@
+C:\Users\sam.SHOFW\Desktop\V4\Interface\bin\x64\Debug\Interface.dll
+C:\Users\sam.SHOFW\Desktop\V4\Interface\bin\x64\Debug\Interface.pdb
+C:\Users\sam.SHOFW\Desktop\V4\Interface\obj\x64\Debug\Interface.dll
+C:\Users\sam.SHOFW\Desktop\V4\Interface\obj\x64\Debug\Interface.pdb

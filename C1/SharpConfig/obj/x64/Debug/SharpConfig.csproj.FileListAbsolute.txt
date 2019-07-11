@@ -1,0 +1,4 @@
+C:\Users\sam.SHOFW\Desktop\V4\SharpConfig\bin\x64\Debug\SharpConfig.dll
+C:\Users\sam.SHOFW\Desktop\V4\SharpConfig\bin\x64\Debug\SharpConfig.pdb
+C:\Users\sam.SHOFW\Desktop\V4\SharpConfig\obj\x64\Debug\SharpConfig.dll
+C:\Users\sam.SHOFW\Desktop\V4\SharpConfig\obj\x64\Debug\SharpConfig.pdb

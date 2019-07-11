@@ -1,0 +1,13 @@
+C:\Users\sam.SHOFW\Desktop\V4\TicketList_BLL\bin\x64\Debug\TicketList_BLL.dll
+C:\Users\sam.SHOFW\Desktop\V4\TicketList_BLL\bin\x64\Debug\TicketList_BLL.pdb
+C:\Users\sam.SHOFW\Desktop\V4\TicketList_BLL\bin\x64\Debug\Contract_BLL.dll
+C:\Users\sam.SHOFW\Desktop\V4\TicketList_BLL\bin\x64\Debug\DB_BLL.dll
+C:\Users\sam.SHOFW\Desktop\V4\TicketList_BLL\bin\x64\Debug\Interface.dll
+C:\Users\sam.SHOFW\Desktop\V4\TicketList_BLL\bin\x64\Debug\SharpConfig.dll
+C:\Users\sam.SHOFW\Desktop\V4\TicketList_BLL\bin\x64\Debug\Contract_BLL.pdb
+C:\Users\sam.SHOFW\Desktop\V4\TicketList_BLL\bin\x64\Debug\DB_BLL.pdb
+C:\Users\sam.SHOFW\Desktop\V4\TicketList_BLL\bin\x64\Debug\Interface.pdb
+C:\Users\sam.SHOFW\Desktop\V4\TicketList_BLL\bin\x64\Debug\SharpConfig.pdb
+C:\Users\sam.SHOFW\Desktop\V4\TicketList_BLL\obj\x64\Debug\TicketList_BLL.csprojResolveAssemblyReference.cache
+C:\Users\sam.SHOFW\Desktop\V4\TicketList_BLL\obj\x64\Debug\TicketList_BLL.dll
+C:\Users\sam.SHOFW\Desktop\V4\TicketList_BLL\obj\x64\Debug\TicketList_BLL.pdb

@@ -1,0 +1,12 @@
+F:\nas\dev\Bill\V3.1\Bill\ClassLibrary1\bin\x86\Debug\SummaryDGV.dll.config
+F:\nas\dev\Bill\V3.1\Bill\ClassLibrary1\bin\x86\Debug\SummaryDGV.dll
+F:\nas\dev\Bill\V3.1\Bill\ClassLibrary1\bin\x86\Debug\SummaryDGV.pdb
+F:\nas\dev\Bill\V3.1\Bill\ClassLibrary1\obj\x86\Debug\SummaryDataGridView.csprojResolveAssemblyReference.cache
+F:\nas\dev\Bill\V3.1\Bill\ClassLibrary1\obj\x86\Debug\SummaryDGV.dll
+F:\nas\dev\Bill\V3.1\Bill\ClassLibrary1\obj\x86\Debug\SummaryDGV.pdb
+C:\Users\sam.SHOFW\Desktop\V4\DataGridViewSummary\bin\x86\Debug\SummaryDGV.dll.config
+C:\Users\sam.SHOFW\Desktop\V4\DataGridViewSummary\bin\x86\Debug\SummaryDGV.dll
+C:\Users\sam.SHOFW\Desktop\V4\DataGridViewSummary\bin\x86\Debug\SummaryDGV.pdb
+C:\Users\sam.SHOFW\Desktop\V4\DataGridViewSummary\obj\x86\Debug\SummaryDataGridView.csprojResolveAssemblyReference.cache
+C:\Users\sam.SHOFW\Desktop\V4\DataGridViewSummary\obj\x86\Debug\SummaryDGV.dll
+C:\Users\sam.SHOFW\Desktop\V4\DataGridViewSummary\obj\x86\Debug\SummaryDGV.pdb

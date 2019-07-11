@@ -1,0 +1,3 @@
+F:\nas\dev\Bill\V3.1\Bill\SharpConfig\bin\x86\Release\SharpConfig.dll
+F:\nas\dev\Bill\V3.1\Bill\SharpConfig\bin\x86\Release\SharpConfig.xml
+F:\nas\dev\Bill\V3.1\Bill\SharpConfig\obj\x86\Release\SharpConfig.dll

@@ -1,0 +1,6 @@
+F:\nas\dev\Bill\V3.1\Bill\ClassLibrary1\bin\x86\Release\SummaryDGV.dll.config
+F:\nas\dev\Bill\V3.1\Bill\ClassLibrary1\bin\x86\Release\SummaryDGV.dll
+F:\nas\dev\Bill\V3.1\Bill\ClassLibrary1\bin\x86\Release\SummaryDGV.pdb
+F:\nas\dev\Bill\V3.1\Bill\ClassLibrary1\obj\x86\Release\SummaryDGV.dll
+F:\nas\dev\Bill\V3.1\Bill\ClassLibrary1\obj\x86\Release\SummaryDGV.pdb
+F:\nas\dev\Bill\V3.1\Bill\ClassLibrary1\obj\x86\Release\SummaryDataGridView.csprojResolveAssemblyReference.cache
